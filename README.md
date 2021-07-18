@@ -11,3 +11,4 @@ An Android app to find local beauty spots.
 - Google maps 
 - Location Listener
 - Image upload and conversion
+- Retrofit
